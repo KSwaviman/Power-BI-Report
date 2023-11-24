@@ -20,6 +20,7 @@ raw csv files containing
 - product info,
 - customers,
 - territories.
+Datasets used for this analyses are available under the Data folder in this repository.
 
 # Requirements
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-in/) (Get the latest version)
