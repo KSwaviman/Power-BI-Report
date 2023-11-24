@@ -20,6 +20,7 @@ raw csv files containing
 - product info,
 - customers,
 - territories.
+</br>
 Datasets used for this analyses are available under the Data folder in this repository.
 
 # Requirements
