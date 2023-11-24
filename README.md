@@ -1,6 +1,6 @@
 # Power-BI-Report
 
-  
+   
 Design of an end to end business intelligence solution for a bicycle manufacturing company, "Adventure Works Cycles".
 
 The purpose of this project is to build a wholistic business intelligence solution and analyze various raw financial data of the company using the tool [Miscrosoft Power BI](https://powerbi.microsoft.com/en-in/).
