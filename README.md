@@ -33,6 +33,8 @@ raw csv files containing
 | DB Normalization |
 | DAX Calculated Columns |
 | DAX Measures |
+| Implicit Measure / Explicit Measure |
+| Logical Functions, Joins (RELATED) |
 | Filter Context |
 | Iterator Functions |
 | Time Intelligence | 
