@@ -42,3 +42,9 @@ raw csv files containing
 | Drill-through Function | 
 | What-If Parameter |
 | Role Based Access Control |
+
+A Quick overview of the Dashboard and its Functions:
+
+https://github.com/KSwaviman/Power-BI-Report/assets/20270507/d14ba626-3ec2-445f-878f-7264b886b739
+
+
